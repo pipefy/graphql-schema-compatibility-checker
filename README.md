@@ -6,7 +6,7 @@ A simple tool that checks if GraphQL schema is backward compatible.
 # Installation
 Install ammonite
 
-    $ sudo curl -L -o /usr/local/bin/amm https://git.io/vAcDx && sudo chmod +x /usr/local/bin/amm  
+    $ sudo curl -L -o /usr/local/bin/amm https://github.com/lihaoyi/Ammonite/releases/download/2.1.4/2.12-2.1.4 && sudo chmod +x /usr/local/bin/amm  
 
 # Usage
 
