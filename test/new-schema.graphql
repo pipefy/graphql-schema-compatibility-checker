@@ -8,4 +8,5 @@ type QueryRoot {
 
 type Repository {
   name: String
+  avatar: String
 }

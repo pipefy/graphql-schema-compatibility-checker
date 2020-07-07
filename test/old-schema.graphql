@@ -3,10 +3,10 @@ schema {
 }
 
 type QueryRoot {
-  repository(name: String!): Repository!
+  repository(name: String): Repository!
 }
 
 type Repository {
-  id: String
-  name: String
+  id: String!
+  name: String!
 }
